@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 
-public class AllCustomers {
+public class AllCustomers {// классы не называются множественным числом
 	private List<Customer> allcustomers;
 
 	public AllCustomers() {
